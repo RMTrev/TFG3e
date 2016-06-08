@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFG3k", "TFG3k\TFG3k\TFG3k.csproj", "{AFABA174-77DF-43F0-BC20-0C48E9B93864}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFG3kContent", "TFG3k\TFG3kContent\TFG3kContent.contentproj", "{86BA74CD-BF4D-4583-ACF7-CD0DFEBC6386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "Data\DataStructures.csproj", "{F761671B-E8AA-470B-9B7E-03B907B1A858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFABA174-77DF-43F0-BC20-0C48E9B93864}.Debug|x86.ActiveCfg = Debug|x86
+		{AFABA174-77DF-43F0-BC20-0C48E9B93864}.Debug|x86.Build.0 = Debug|x86
+		{AFABA174-77DF-43F0-BC20-0C48E9B93864}.Release|x86.ActiveCfg = Release|x86
+		{AFABA174-77DF-43F0-BC20-0C48E9B93864}.Release|x86.Build.0 = Release|x86
+		{86BA74CD-BF4D-4583-ACF7-CD0DFEBC6386}.Debug|x86.ActiveCfg = Debug|x86
+		{86BA74CD-BF4D-4583-ACF7-CD0DFEBC6386}.Release|x86.ActiveCfg = Release|x86
+		{F761671B-E8AA-470B-9B7E-03B907B1A858}.Debug|x86.ActiveCfg = Debug|x86
+		{F761671B-E8AA-470B-9B7E-03B907B1A858}.Debug|x86.Build.0 = Debug|x86
+		{F761671B-E8AA-470B-9B7E-03B907B1A858}.Release|x86.ActiveCfg = Release|x86
+		{F761671B-E8AA-470B-9B7E-03B907B1A858}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
